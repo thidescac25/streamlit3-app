@@ -1,0 +1,2 @@
+name;password;email;failed_login_attempts;logged_in;role
+mj;mjMDP;mjBulls@gmail.com;0;False;utilisateur
